@@ -1,0 +1,33 @@
+- 👋 Hi, I’m @EgorPak
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+EgorPak/EgorPak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+# PEG Packrat: "You don't need a fucking scanner"
+
+Turns out the entire point of PEG packrat
+func (c *Grammar) Lit(s string) Rule {
+
+ it cached, has := c.Load(s)
+ if cached, has := c.Load(rule.Text)
+// to the string passed
+ if n < len(s)
+  err = ErrLit{s}
+  if r[
+ i res.E
+  if len
+type Sequence []Rule
+
+func (s Sequence) String() string {
+  str := s[0].Text
+  for _, v := range s[1:] {
+   str += " / " + v.Text
+  }
+  return str
+}
+# visible ascii including space but excluding 
